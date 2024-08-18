@@ -6,7 +6,7 @@
     border: none;
     outline: none;
     scroll-behavior: smooth;
-    font-family: "Monospace";
+    font-family: "Ubuntu Mono";
 }
 
 html{
@@ -264,7 +264,7 @@ section{
 .project-info p{
     font-size: 1.3rem;
     margin: 2rem 0;
-    font-weight: 600;
+    font-weight: 450;
 }
 .project-icon a{
     display: inline-flex;
